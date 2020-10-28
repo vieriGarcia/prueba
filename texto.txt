@@ -1,1 +1,7 @@
 1- Soy master
+2- Soy develop
+3- Soy feature 1
+4- Soy feature 2
+5- Corrección feature 2
+6- Release 1
+7- Release 1 aprobado
