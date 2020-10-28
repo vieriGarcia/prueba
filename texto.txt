@@ -5,3 +5,4 @@
 5- Corrección feature 2
 6- Release 1
 7- Release 1 aprobado
+8- Hotfix 1 requerido
